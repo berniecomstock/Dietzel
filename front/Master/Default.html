@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="/fav/favicon.ico">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="/fav/favicon.ico">
+    <link rel="icon" type="image/png" sizes="196x196" href="/fav/favicon-192.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="/fav/favicon-160.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/fav/favicon-96.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/fav/favicon-64.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16.png">
+    <link rel="apple-touch-icon" href="/fav/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/fav/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/fav/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/fav/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/fav/favicon-60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/fav/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/fav/favicon-76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/fav/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/fav/favicon-180.png">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/fav/favicon-144.png">
+    <meta name="msapplication-config" content="/fav/browserconfig.xml">
+    <script id="s1" src="../MSIE.js"></script>
+    <script id="s2" src="../HTTPS.js"></script>
+    <script id="s3">
+        (function () {
+            "use strict";
+            if (window.console) {
+                if (window.console.log) {
+                    //window.console.log = function () { };
+                }
+                if (window.console.dir) {
+                    //window.console.dir = function () { };
+                }
+            }
+
+
+            requestAnimationFrame(()=>{
+                fetch("../" + document.body.id + "/" + "$$$.js?r=" + Date.now().toString()).then(data=>{
+                    if (data.ok) { return data.text(); }
+                }).then(data=>{
+                    let s = document.createElement("script");
+                    s.textContent = data;
+                    document.head.appendChild(s);
+                    document.head.removeChild(s);
+                })
+            });
+            document.head.removeChild(document.getElementById("s1"));
+            document.head.removeChild(document.getElementById("s2"));
+            document.head.removeChild(document.getElementById("s3"));
+        })();
+    </script>
+</head>
+<body id="06092018b">
+    <style>
+        div {
+            text-align: center;
+        }
+
+        img {
+            margin-right: auto;
+            margin-left: auto;
+            width: 320px;
+        }
+    </style>
+    <div><img src="../IMG/Splash.gif" /></div>
+
+</body>
+</html>

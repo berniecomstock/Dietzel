@@ -1,0 +1,44 @@
+
+send email to everyone
+
+Alerts and Notices 
+
+
+Sub TimeClock On Equipment.
+
+****************************************************
+Doc Renaming
+****************************************************
+New Permit bucket
+****************************************************
+Log Time For Testing onsite
+****************************************************
+
+********************************************************************
+Click To Call
+********************************************************************
+
+Y=Locate Number AlphaNumeric
+Y=Concrete Company
+Y=Concrete Contact
+Y=Concrete Phone
+Y=TestingAge Name Phone
+Y=Contractor Contact Phone Field Contact Field Phone
+Y=Ancor bolts complete
+Add Ancor Bolt Notes
+
+
+R=no rebar date
+yellow=
+green
+
+
+
+****************************************************
+Android And Iso Developer
+Dietzel Enterprises Inc. is looking for a qualified.
+
+
+
+
+
