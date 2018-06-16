@@ -1,0 +1,114 @@
+﻿
+
+@media (min-width: 400px) {
+    .Container {
+        width: 380px;
+    }
+}
+
+@media (min-width: 500px) {
+    .Container {
+        width: 480px;
+    }
+}
+
+@media (min-width: 600px) {
+    .Container {
+        width: 580px;
+    }
+}
+
+@media (min-width: 700px) {
+    .Container {
+        width: 680px;
+    }
+
+    .Split {
+        display: inline-block;
+        width: 50%;
+    }
+
+    .Split4 {
+        display: inline-block;
+        width: 25%;
+    }
+
+    .Split3 {
+        display: inline-block;
+        width: 33%;
+    }
+
+    .Split5 {
+        display: inline-block;
+        width: 20%;
+    }
+
+    .Split66 {
+        display: inline-block;
+        width: 66%;
+    }
+
+    .XSplit {
+        display: inline-block;
+        width: 50%;
+    }
+
+    .XSplit33 {
+        display: inline-block;
+        width: 33%;
+    }
+
+    .XSplit25 {
+        display: inline-block;
+        width: 25%;
+    }
+
+    .XSplit20 {
+        display: inline-block;
+        width: 20%;
+    }
+
+    .XSplit10 {
+        display: inline-block;
+        width: 10%;
+    }
+
+    .XSplit5 {
+        display: inline-block;
+        width: 5%;
+    }
+}
+
+@media (min-width: 800px) {
+    .Container {
+        width: 780px;
+    }
+}
+
+@media (min-width: 900px) {
+    .Container {
+        width: 880px;
+    }
+}
+
+@media (min-width: 1000px) {
+    .Container {
+        width: 980px;
+    }
+}
+
+@media (min-width: 1100px) {
+    .Container {
+        width: 1080px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .Container {
+        width: 1180px;
+    }
+
+    .Container {
+        width: 1080px;
+    }
+}

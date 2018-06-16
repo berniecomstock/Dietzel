@@ -1,0 +1,225 @@
+﻿
+.Orange {
+    background-color: rgb(227,102, 39);
+}
+
+.Blue {
+    background-color: rgb(35,90, 148);
+}
+
+.Green {
+    background-color:#4CD964;
+}
+
+.LightGreen {
+    background-color: rgb(95,198,34);
+}
+
+.Black {
+    background-color: rgb(0,0,0);
+    color: rgb(255, 255, 255);
+}
+
+.White {
+    background-color: rgb(255,255,255);
+    color: rgb(0,0,0);
+}
+
+.Gray {
+    background-color: rgb(150,150,150);
+}
+.Grey {
+    background-color: rgb(150,150,150);
+}
+
+.FLightGreen {
+    color: rgb(95,198,34);
+}
+
+.OrangeFont {
+    color: rgb(227,102, 39);
+}
+
+.BlueFont {
+    color: rgb(35,90, 148);
+}
+
+.GreenFont {
+    color: #4CD964;
+}
+
+.RedFont {
+    color: rgb(255,0,0);
+}
+
+.WhiteFont {
+    color: rgb(255,255,255);
+}
+
+.BlackFont {
+    color: rgb(25,25,25);
+}
+.GreyFont {
+    color: rgb(200,200,200);
+}
+.GrayFont {
+    color: rgb(200,200,200);
+}
+
+
+.HoverWhite {
+    background-color: transparent;
+}
+
+.HoverOrange {
+    background-color: transparent;
+}
+
+.HoverBlue {
+    background-color: transparent;
+}
+
+.HoverGreen {
+    background-color: transparent;
+}
+
+.HoverWhite:hover {
+    background-color: rgba(255,255,255,0.2);
+}
+
+.HoverOrange:hover {
+    background-color: rgba(227,102, 39,0.2);
+}
+
+.HoverBlue:hover {
+    background-color: rgba(35,90, 148,0.2);
+}
+
+.HoverGreen:hover {
+    background-color: rgba(26,151,110,0.2);
+}
+
+.HoverWhite:hover {
+    background-color: rgba(255,255,255,0.8);
+}
+
+.HoverOrange:hover {
+    background-color: rgba(255,255,255,0.8);
+}
+
+.HoverBlue:hover {
+    background-color: rgba(255,255,255,0.8);
+}
+
+.HoverGreen:hover {
+    background-color: rgba(255,255,255,0.8);
+}
+.CW {
+    color: #FFF;
+}
+
+.C0 {
+    color: #FFF;
+}
+/**/
+.C1 {
+    color: #E64A19;
+}
+/*rgb(230,74,25,0.5)*/
+.C2 {
+    color: #FF5722;
+}
+/**/
+.C3 {
+    color: #FFCCBC;
+}
+/**/
+.C4 {
+    color: #448AFF;
+}
+/**/
+.C5 {
+    color: #212121;
+}
+/**/
+.C6 {
+    color: #757575;
+}
+/**/
+.C7 {
+    color: #BDBDBD;
+}
+/**/
+
+.CWbg {
+    background-color: #FFF;
+}
+
+.C0bg {
+    background-color: #FFF;
+}
+
+.C1bg {
+    background-color: #E64A19;
+}
+
+.C2bg {
+    background-color: #FF5722;
+}
+
+.C3bg {
+    background-color: #FFCCBC;
+}
+
+.C4bg {
+    background-color: #448AFF;
+}
+
+.C5bg {
+    background-color: #212121;
+}
+
+.C6bg {
+    background-color: #757575;
+}
+
+.C7bg {
+    background-color: #BDBDBD;
+}
+
+.Trans {
+    color: transparent;
+}
+
+.Transbg {
+    background-color: transparent;
+}
+
+.Smoke {
+    background-color: rgba(55,55,55,0.55);
+}
+
+
+.Green {
+    color: #4CAF50;
+}
+
+.Greenbg {
+    background-color: #4CAF50;
+}
+
+.Red {
+    color: #F44336;
+}
+
+.Redbg {
+    background-color: #F44336;
+}
+
+.Yello {
+    color: #FFEB3B;
+}
+
+.Yellobg {
+    background-color: #ffff88;
+}
